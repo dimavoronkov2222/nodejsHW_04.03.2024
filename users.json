@@ -1,0 +1,5 @@
+[
+  {
+    "------WebKitFormBoundaryrbHwI0rAJoOItvMi\r\nContent-Disposition: form-data; name": "\"email\"\r\n\r\ndimavoronkov2222@gmail.com\r\n------WebKitFormBoundaryrbHwI0rAJoOItvMi\r\nContent-Disposition: form-data; name=\"firstName\"\r\n\r\nDmytro\r\n------WebKitFormBoundaryrbHwI0rAJoOItvMi\r\nContent-Disposition: form-data; name=\"lastName\"\r\n\r\nVoronkov\r\n------WebKitFormBoundaryrbHwI0rAJoOItvMi\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\nPas123456\r\n------WebKitFormBoundaryrbHwI0rAJoOItvMi\r\nContent-Disposition: form-data; name=\"confirmPassword\"\r\n\r\nPas123456\r\n------WebKitFormBoundaryrbHwI0rAJoOItvMi--\r\n"
+  }
+]
